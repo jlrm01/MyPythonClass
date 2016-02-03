@@ -1,0 +1,13 @@
+﻿pre {
+	border-style: solid;
+	border-width: thin;
+	border-radius: 0px;
+	margin: 10px;
+	padding: 0px;
+}
+body {
+	background-color: #333300;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-size: large;
+	color: #FFFFFF;
+}
